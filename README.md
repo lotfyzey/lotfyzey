@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**lotfyzey/lotfyzey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 I am an engineering student specializing in Software Testing and Quality Assurance, with a strong interest in ensuring software reliability, functionality, and user satisfaction. I have a solid understanding of software testing fundamentals, including test case design, bug reporting, and validation of software requirements.<br><br>I am a fast learner with a strong academic background, eager to gain hands-on experience through internships and practical training opportunities. I am particularly interested in applying testing methodologies and tools in real-world projects, contributing to improving software quality while continuously developing my technical and analytical skills in a professional environment.
 
 
@@ -23,11 +16,3 @@ I am an engineering student specializing in Software Testing and Quality Assuran
 [![](https://visitcount.itsvg.in/api?id=lotfyzey&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
