@@ -1,44 +1,87 @@
-# 💫 About Me:
-I am an engineering student specializing in Software Testing and Quality Assurance, with a strong interest in ensuring software reliability, functionality, and user satisfaction. I have a solid understanding of software testing fundamentals, including test case design, bug reporting, and validation of software requirements.<br><br>I am a fast learner with a strong academic background, eager to gain hands-on experience through internships and practical training opportunities. I am particularly interested in applying testing methodologies and tools in real-world projects, contributing to improving software quality while continuously developing my technical and analytical skills in a professional environment.
+# 👋 Hi, I'm Zeyad Lotfy
 
-PROFESSIONAL EXPERIENCE
+Computer Engineering student at the **Faculty of Electronic Engineering, Minoufia University** (class of 2024 intake), focused on **networking, cybersecurity, and embedded systems**. I learn by building and breaking things in lab environments, and I'm currently deepening my skills in **cloud security (AWS)** and **penetration testing**.
 
-Software Testing Intern | Pure Soft
-Jan 2026 – Present 
-Executing comprehensive manual and automated testing scenarios to ensure high-quality software delivery. 
-Designing detailed test cases and managing bug reporting workflows to streamline the QA process. 
-Actively participating in hands-on training for Software Quality Assurance and testing methodologies. 
-
-Software Testing Trainee | Digital Egypt Pioneers Initiative (DEPI)
-Jul 2025 – Dec 2025 
-Team Leadership: Led a 5-person team for three months, serving as the primary liaison between the team, DEPI leadership, and the Ministry of Communications. 
-API Testing: Conducted API testing using Postman to validate request/response behavior and data integrity. 
-Process Management: Applied core concepts of SDLC, STLC, and Agile methodologies to practical testing scenarios. 
-Defect Documentation: Authored clear, structured test cases and defect reports to improve software reliability.
-KEY PROJECTS & ACHIEVEMENTS
-
-Graduation Project: Swag Labs (E-commerce Platform)
-Award: Ranked 2nd Place within the DEPI initiative by the Ministry of Communications and Information Technology (MCIT). 
-End-to-End Testing: Managed the full testing lifecycle, including planning, design, execution, and final reporting. 
-Automation: Developed and executed automation scripts for login and checkout workflows using Selenium WebDriver and TestNG. 
-Multi-Platform Testing: Performed functional, UI, and API testing on both mobile and web applications. 
-Practical Project: Go-Bus.com Registration Page
-Functional Testing: Validated registration forms through rigorous positive and negative testing scenarios. 
-API Validation: Performed API testing on booking functions to ensure seamless server-side performance. 
-Root Cause Analysis: Identified and documented critical bugs related to validation logic, UI layout, and user flow. 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zeyad-lotfy-790974347/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Zeyad Lotfy Elghany) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lotfyzeyad350@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lotfyzey&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lotfyzey&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lotfyzey&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-lotfy-790974347/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lotfyzeyad350@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lotfyzey&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🎓 Training & Programs
+
+- **AWS Cloud Security (6 months)** | Digital Egypt Pioneers Initiative (DEPI) via Rowad
+  - Hands-on AWS Academy labs: IAM, VPC subnetting (CIDR, public/private design), EC2 User Data, encryption at rest with **KMS, S3, EBS, CloudTrail**
+  - Preparing for AWS cloud security certification
+- **Network & Cybersecurity Track, Group #22** | ITI Banha
+  - Network Fundamentals, Advanced Networking, Cybersecurity Essentials, Ethical Hacking
+  - Cisco labs (Packet Tracer): DHCP, TFTP, SSH across multi-router topologies, ROMMON password recovery
+  - Log analysis with Windows Event Viewer, lab troubleshooting in EVE-NG / VirtualBox
+- **FortiGate** | NTI
+- **UI/UX training** | ITIDA
+- Self-studying **HCCDA Huawei Cloud**
+
+## 💼 Experience
+
+**Penetration Testing Intern** | Edrak For AI (90 hours)
+- Covered Linux, networking, cryptography, reconnaissance, web application security, API security, and vulnerability assessment
+- Capstone: security assessment of my own web app, **NileCare** (see below)
+
+**Software Testing Intern** | Pure Soft
+- Manual and automated testing, test case design, and bug reporting workflows
+
+**Software Testing Trainee** | Digital Egypt Pioneers Initiative (DEPI), Jul 2025 – Dec 2025
+- Led a 5-person team and acted as liaison with DEPI leadership and the Ministry of Communications
+- API testing with Postman; applied SDLC, STLC, and Agile; wrote structured test cases and defect reports
+
+## 🚀 Projects
+
+### 🔐 NileCare: Hospital Patient Portal + Security Assessment
+Built a hospital patient portal and performed a self-directed penetration test against it.
+- Found **Broken Access Control**, **IDOR via Base64 token manipulation**, and **CSRF**
+- Produced a formal penetration testing report
+
+### 🚗 Smart Line-Follower Car (Graduation Project)
+ATmega32-based autonomous car with line following, ultrasonic obstacle avoidance, and Bluetooth control (HC-05).
+
+### 🧊 Cold-Chain Guardian
+Dual ATmega32 monitor/annunciator system communicating over SPI, simulated in Proteus, using a layered **MCAL / HAL / APP** architecture.
+
+### ⚙️ Embedded Drivers
+Timer1 (Fast PWM, ICR1 TOP, ICU), HC-05 Bluetooth, ADC/LCD, Timer0 labs, AVRDude/USBasp flashing.
+
+### 🎓 Student Portal (Faculty of Electronic Engineering)
+Node.js + Express + MySQL web app with announcements, courses, and registration pages.
+
+### 🏆 Swag Labs (E-commerce QA Project)
+2nd place within the DEPI initiative (MCIT). Full testing lifecycle, plus Selenium WebDriver + TestNG automation for login and checkout flows.
+
+## 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+**Security & Networking:** Nmap, Wireshark, Packet Tracer, EVE-NG, VirtualBox, FortiGate, Kali Linux
+**Embedded:** ATmega32 / AVR, AVRDude, Proteus, SPI, Timers/PWM, ADC, Bluetooth (HC-05)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=lotfyzey&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=lotfyzey&theme=shadow_green&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lotfyzey&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
